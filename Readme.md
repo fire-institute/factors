@@ -1,0 +1,1 @@
+This repo is the bundled opensource toolkit for book Navigating the Factor Zoo：The Science of Quantitative Investing. It includes all the code and data used in the book to help readers understand and implement the concepts discussed.
